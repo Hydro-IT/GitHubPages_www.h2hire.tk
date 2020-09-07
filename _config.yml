@@ -5,7 +5,7 @@ url: https://www.h2hire.tk/
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "/karna"
+baseurl: "/"
 full-version: "https://www.h2hire.tk/"
 
 sass:
